@@ -24,6 +24,7 @@ Owner
 * Business insurance
 * Licensing
 * Tax strategist
+* Keeping track of CoConstruct leads
 
 ## Alex Witkowski
 
