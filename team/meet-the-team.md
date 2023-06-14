@@ -25,6 +25,7 @@ Owner
 * Licensing
 * Tax strategist
 * Keeping track of CoConstruct leads
+* QuickBooks transactions validator
 
 ## Alex Witkowski
 
@@ -34,7 +35,7 @@ Owner
 * Plumbing tech
 * Estimating
 * Tax strategist
-* Software manager
+* Managing the software we use
 
 {% hint style="info" %}
 **GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
