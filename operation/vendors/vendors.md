@@ -5,7 +5,7 @@ Businesses we like to buy from.
 Generally, lists are ordered from most preferred to least.
 For the ones that have reps listed, we have good relationships with these people. Be kind to them!
 
-## Plumbing
+## 🔧 Plumbing
 
 ### Winsupply
 Often times the cheapest, but the location can be inconvenient. Best prices around for AO Smith. And they ship for free
@@ -20,7 +20,7 @@ They have cast iron
 ### Van Marcke
 Most expensive but they have locations everywhere so it's better than driving across town for a single part.
 
-## Remodeling
+## 🏠 Remodeling
 
 ### Studio 41
 Best quality, best in-house designers. Pricey but their contractor prices are often times way below the list price, so it's easier to mark up the material when customers buy here.
